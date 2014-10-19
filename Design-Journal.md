@@ -13,7 +13,7 @@ During today’s class we were given the pleasure of watching an inspirational v
 
 **Beethoven – Yale Symphony Orchestra** was one of Inge Druckrey’s posters that caught my eye. The Poster was created in **1979**; she used the contrast of light and dark, to relate to the life of Beethoven, as he suffered from depression but then transitioned to very active working periods. It initiated with the Large B, within the B is one of Beethoven’s manuscripts. I like how she has subtly put in the staff-lines, and other lines throughout, as it connects well with the whole poster. Beethoven is spelt throughout the poster, such as the Large E that is set in the Negative area. I like how has made this poster so simplistic but it puzzles the viewers to try figure it out.
 
-pic
+![Imgur](http://i.imgur.com/9E8oWtO.jpg)
 
 ****
 ####CIRCLES
