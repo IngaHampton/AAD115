@@ -7,16 +7,7 @@ Week 1
 
 ####INGE DRUCKREY 
 
-<!DOCTYPE html>
-<html>
-<body>
 
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/ldSkPqZKBl0" frameborder="0" allowfullscreen></iframe>
-
-
-</body>
-</html>
 
 Week 2
 -------
