@@ -7,7 +7,7 @@ Week 1
 
 ####INGE DRUCKREY 
 
-![https://www.youtube.com/watch?v=ldSkPqZKBl0]
+!(https://www.youtube.com/watch?v=ldSkPqZKBl0)
 
 Week 2
 -------
