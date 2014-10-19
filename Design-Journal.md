@@ -28,7 +28,7 @@ With just a pen, circle stencil and paper we were given the task of drawing one 
 
 After doing the circle studies, we were given the task to create wallpapers for Iphones. I created these wallpapers using Adobe Illustrator.
 
-![Imgur](http://i.imgur.com/kyETCbK.jpg)
+![Imgur](http://i.imgur.com/fRUxasz.jpg)
 
 Books -
 
