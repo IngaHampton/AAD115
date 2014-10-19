@@ -7,7 +7,7 @@ Week 1
 
 ####INGE DRUCKREY 
 
-[[youtube-{//www.youtube.com/embed/ldSkPqZKBl0}-{100}x{100}]]
+[Teaching to See](https://www.youtube.com/watch?v=ldSkPqZKBl0)
 
 Week 2
 -------
