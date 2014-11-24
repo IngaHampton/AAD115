@@ -30,7 +30,7 @@ After doing the circle studies, we were given the task to create wallpapers for 
 
 ![Imgur](http://i.imgur.com/fRUxasz.jpg)
 
-Link to Flicker album - https://www.flickr.com/photos/128425558@N08/sets/72157649044056560/
+Link to Point Flickr album - https://www.flickr.com/photos/128425558@N08/sets/72157649044056560/
 
 Books -
 
