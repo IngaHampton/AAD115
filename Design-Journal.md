@@ -16,15 +16,15 @@ During today’s class we were given the pleasure of watching an inspirational v
 ![Imgur](http://i.imgur.com/9E8oWtO.jpg)
 
 ****
-####CIRCLES
+####POINT
 
 With just a pen, circle stencil and paper we were given the task of drawing one circle twenty times, changing its scale and position within the square. By just changing the size and placement we created some interesting, yet simplistic arrangements. We continued on from one and worked our way up to doing two, three and five. With more circles to work with our patterns became more detailed and fascinating. We then moved up to fifty circles, but this had to be done on computer as it would be too time consuming and laborious to do on paper.
 
-* Pic - 20 - 1 circle
-* Pic – 20 - 2 circles
-* Pic – 20 - 3 circles
-* Pic – 20 - 5 Circles
-* Pic – 20 - 50 circles
+-	[One point](https://flic.kr/p/prYNpq)
+-	[Two points](https://flic.kr/p/ps2rpA)
+-	[Three points](https://flic.kr/p/prWjvK)
+-	[Five circles](https://flic.kr/p/prWjsZ)
+-	Fifty circles
 
 After doing the circle studies, we were given the task to create wallpapers for Iphones. I created these wallpapers using Adobe Illustrator.
 
@@ -38,7 +38,19 @@ Books -
 Week 2
 -------
 
-Line
+####LINE
+
+This weeks assignment was all about lines, we were given the task to draw 1, 2 , 3, 5, and 50 lines. For each section we had to recreate it 20 times, each time we had to reposition and change the scale of line within the square to create a range of patterns and designs. The more lines the design involved the more detailed the design would be, this didn’t mean the design would be better than the ones with less.  The designs using 1-5 lines were drawn by hand with a sharpie pen and a ruler, the designs that had 50 lines had to be created using either Adobe Illustrator or Sketch.
+
+-	One line
+-	Two lines
+-	Three lines
+-	Five lines
+-	Fifty lines
+
+Wallpapers
+
+
 
 Week 3
 -------
