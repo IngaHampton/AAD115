@@ -30,7 +30,7 @@ After doing the circle studies, we were given the task to create wallpapers for 
 
 ![Imgur](http://i.imgur.com/fRUxasz.jpg)
 
-Link to Point Flickr album - https://www.flickr.com/photos/128425558@N08/sets/72157649044056560/
+Link to Point Flickr album - https://flic.kr/s/aHsk5MLef1
 
 Books -
 
@@ -58,7 +58,7 @@ Week 3
 
 plane
 
-
+Link to plane flickr album - https://flic.kr/s/aHsk2TdNET
 Week 4
 -------
 
